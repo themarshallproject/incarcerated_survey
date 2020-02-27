@@ -10,7 +10,7 @@ After collecting responses on a rolling basis for several months, by March of 20
 This repository contains a cleaned, formatted and anonymized version of that raw survey data. 
 
 # Limitations
-Due to the challenges of reaching incarcerated populations, it was not feasible to reliably access and survey all facilities, geographic areas, and demographic groups. The Marshall Project/Slate took efforts to reach as many respondents as feasible, and worked to carefully analyze demographic and personal information supplied by respondents to attempt to control for broad factors when interpreting results of the data. However, this survey should not be considered a representative picture of the entire incarcerated population of the United States; any further interpretation of this public data should be done with similar caution. 
+Due to the challenges of reaching incarcerated populations, it was not feasible to reliably access and survey all facilities, geographic areas, and demographic groups. The Marshall Project/Slate took efforts to reach as many respondents as feasible, and worked to carefully analyze demographic and personal information supplied by respondents to attempt to control for broad factors when interpreting results of the data. However, this survey should not be considered a representative picture of the entire incarcerated population of the United States, and any further interpretation of this public data should be done with similar caution. 
 
 # Timeline
 Survey collection is ongoing; this public data is a snapshot of what the team had collected as of March 2020.
@@ -43,4 +43,4 @@ Survey collection is ongoing; this public data is a snapshot of what the team ha
 
 Columns of the form **cj_important_issue_...** Responses to question *Please pick the top three most important criminal justice issues for the next president: ...* for several given issues, *1* if respondent marked given reason as one of the top issues, *0* if not. Refer to *questions* descriptions in *data/incarcerated_survey_questions-marshallproject_slate-march_11_2019.csv* for details
 
-**all other columns** Responses to the rest of the survey questions, refer to *questions* descriptions in *data/incarcerated_survey_questions-marshallproject_slate-march_11_2019.csv* for details
+**all other columns** Responses to the rest of the survey political questions, refer to *questions* descriptions in *data/incarcerated_survey_questions-marshallproject_slate-march_11_2019.csv* for details
