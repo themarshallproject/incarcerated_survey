@@ -44,3 +44,12 @@ Survey collection is ongoing; this public data is a snapshot of what the team ha
 Columns of the form **cj_important_issue_...** Responses to question *Please pick the top three most important criminal justice issues for the next president: ...* for several given issues, *1* if respondent marked given reason as one of the top issues, *0* if not. Refer to *questions* descriptions in *data/incarcerated_survey_questions-marshallproject_slate-march_11_2019.csv* for details
 
 **all other columns** Responses to the rest of the survey political questions, refer to *questions* descriptions in *data/incarcerated_survey_questions-marshallproject_slate-march_11_2019.csv* for details
+
+# Contributors
+[Nicole Lewis](https://www.themarshallproject.org/staff/nicole-lewis) Staff Writer at The Marshall Project
+[Lawrence Bartley](https://www.themarshallproject.org/staff/lawrence-bartley) Director of News Inside at The Marshall Project
+[Aviva Shen](https://slate.com/author/aviva-shen) Senior Editor at Slate
+[Anna Flagg](https://www.themarshallproject.org/staff/anna-flagg) Senior Data Reporter at The Marshall Project
+
+# Questions or comments?
+Contact Anna Flagg at [aflagg@themarshallproject.org](aflagg@themarshallproject.org)
