@@ -47,9 +47,12 @@ Columns of the form **cj_important_issue_...** Responses to question *Please pic
 
 # Contributors
 [Nicole Lewis](https://www.themarshallproject.org/staff/nicole-lewis) Staff Writer at The Marshall Project
+
 [Lawrence Bartley](https://www.themarshallproject.org/staff/lawrence-bartley) Director of News Inside at The Marshall Project
+
 [Aviva Shen](https://slate.com/author/aviva-shen) Senior Editor at Slate
+
 [Anna Flagg](https://www.themarshallproject.org/staff/anna-flagg) Senior Data Reporter at The Marshall Project
 
 # Questions or comments?
-Contact Anna Flagg at [aflagg@themarshallproject.org](aflagg@themarshallproject.org)
+Contact Anna Flagg at: aflagg@themarshallproject.org
