@@ -54,7 +54,7 @@ Columns of the form **cj_important_issue_...** Responses to question *Please pic
 
 [Aviva Shen](https://slate.com/author/aviva-shen) Senior Editor at Slate
 
-[Mark Morgioni](https://slate.com/author/mark-morgioni) Senior Editor at Slate
+[Mark Morgioni](https://slate.com/author/mark-morgioni) Director, Research and Data at Slate
 
 [Anna Flagg](https://www.themarshallproject.org/staff/anna-flagg) Senior Data Reporter at The Marshall Project
 
