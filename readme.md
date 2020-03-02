@@ -3,14 +3,16 @@ By [Anna Flagg](https://www.themarshallproject.org/staff/anna-flagg)
 # Survey of the Incarcerated
 The incarcerated population is often presented as a monolith; assumed to be Democrats and liberal-leaning, and characterized with various other similarly broad assumptions. But because of the notorious challenges in accessing incarcerated voices, very little is actually known about their opinions and politics.
 
-Beginning in the winter of 2019, The Marshall Project/Slate undertook a large reporting project to survey the political views of incarcerated people in American prisons and jails. The survey was carried out through collaboration with tablet companies serving some facilities, as well as in paper form through News Inside, The Marshall Project's print publication distributed inside some facilities. 
+Beginning in the winter of 2019, The Marshall Project/Slate undertook a large reporting project to survey the political views of incarcerated people in American prisons and jails. The survey was carried out through collaboration with tablet companies serving some facilities, as well as in paper form through News Inside, The Marshall Project's print publication distributed inside some facilities. Paper questionnaires were mailed in to The Marshall Project by respondents.
 
-After collecting responses on a rolling basis for several months, by March of 2020 over 8,000 survey responses had arrived from incarcerated people across the country. Marshall Project/Slate reporters analyzed that data and reported findings in a series of stories published in March. 
+Responses were collected on a rolling basis over several months; by March of 2020 over 8,000 survey responses had arrived from incarcerated people across the country. Marshall Project/Slate reporters analyzed that data and reported findings in a series of stories published in March. 
 
 This repository contains a cleaned, formatted and anonymized version of that raw survey data. In order to protect survey respondents from identification, all direct personal identifiers and open-ended responses were removed from the data. Additionally, some demographic groups were combined when necessary (e.g. rolling up age bins) and some identifiers (Geo in particular) were nulled out to ensure that no one permutation of demographic groups would have a small enough number of responses to allow for identification.
 
 # Limitations
-Due to the challenges of reaching incarcerated populations, it was not feasible to reliably access and survey all facilities, geographic areas, and demographic groups. The Marshall Project/Slate took efforts to reach as many respondents as feasible, and worked to carefully analyze demographic and personal information supplied by respondents to attempt to control for broad factors when interpreting results of the data. Ultimately, the Marshall Project/Slate decided not to weight the overall data, both because data collection is still ongoing and because of the difficulty in obtaining population level statistics for individual prisons and jails vs. state level incarcerated populations. Ther data should therefore not be considered a representative picture of the entire incarcerated population of the United States, and any further interpretation of this public data should be done with similar caution. 
+Due to the challenges of reaching incarcerated populations, it was not feasible to reliably access and survey all facilities, geographic areas, and demographic groups. The Marshall Project/Slate took efforts to reach as many respondents as feasible, and worked to carefully analyze demographic and personal information supplied by respondents to attempt to control for broad factors when interpreting results of the data. 
+
+Ultimately, the Marshall Project/Slate decided not to weight the overall data, both because data collection is still ongoing and because of the difficulty in obtaining population level data for individual prisons and jails vs. state and federal level incarcerated populations. The data should therefore not be considered a representative picture of the entire incarcerated population of the United States, and any further interpretation of this public data should be done with similar caution. 
 
 # Timeline
 Survey collection is ongoing; this public data is a snapshot of what the team had collected as of March 2020.
@@ -51,6 +53,8 @@ Columns of the form **cj_important_issue_...** Responses to question *Please pic
 [Lawrence Bartley](https://www.themarshallproject.org/staff/lawrence-bartley) Director of News Inside at The Marshall Project
 
 [Aviva Shen](https://slate.com/author/aviva-shen) Senior Editor at Slate
+
+[Mark Morgioni](https://slate.com/author/mark-morgioni) Director, Research and Data at Slate
 
 [Anna Flagg](https://www.themarshallproject.org/staff/anna-flagg) Senior Data Reporter at The Marshall Project
 
